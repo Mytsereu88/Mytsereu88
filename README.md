@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mytsereu88
 - 👀 I’m interested in Archery
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on non specific
+- 🌱 I’m currently learning 
 - 📫 How to reach me E-Mail, Pn
 
 <!---
