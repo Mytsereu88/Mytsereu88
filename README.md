@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mytsereu88
-- 👀 I’m interested in Archery
+- 👀 I’m interested in UI/UX Design/Webdesign and Pixel Art
 - 🌱 I’m currently learning 
 - 📫 How to reach me E-Mail, Pn
 
